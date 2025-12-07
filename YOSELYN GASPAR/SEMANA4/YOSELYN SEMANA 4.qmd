@@ -1,0 +1,10 @@
+---
+title: "YOSELYN SEMANA 4"
+format: html
+---
+
+```{r}
+img <- image_read("Semana4.png")
+img
+```
+
